@@ -225,7 +225,6 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
         String summary = "<html><body>"+
                 "<br />" +
                 "<br />" +
